@@ -2,6 +2,6 @@
 
 Tutorials are in bin folder
 
-Run: cargo run --bin <filename>
+Run: cargo run --bin <--filename-->
 
 Keep Learning, Keep Building !!
